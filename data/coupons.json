@@ -1,0 +1,12 @@
+{"coupons": [
+  {"name":"SNICKERS® Brand", "deal":"SAVE $0.50","description":"on any ONE (1) SNICKERS® Crisper, Original, Almond or Xtreme Single or Sharing Size Bars (1.41 - 3.59 oz.)", "img":"img/snickers.gif"},
+  {"name":"Pillsbury Frozen", "deal":"SAVE 50¢ ON ONE","description":"when you buy any flavor/variety Pillsbury™ Toaster Strudel™ pastries", "img":"img/pilsbury.gif"},
+  {"name":"Cetaphil®", "deal":"SAVE $2.00","description":"on any one (1) Cetaphil® product (excludes trial/travel & single bars)", "img":"img/cetaphil.gif"},
+  {"name":"Old El Paso", "deal":"SAVE $1.00 ON THREE","description":"when you buy THREE PACKAGES Old El Paso™ products (excludes Old El Paso™ refrigerated and", "img":"img/oldelpasso.gif"},
+  {"name":"DAWN®", "deal":"25¢ OFF","description":"ONE Dawn® Product (excludes trial/travel size)", "img":"img/dawn.gif"},
+  {"name":"Big G Cereals", "deal":"SAVE $1.00 ON TWO","description":"when you buy TWO BOXES any flavor Cheerios™ cereals: Original Cheerios™ • Honey Nut Cheerios™...", "img":"img/biggcreals.gif"},
+  {"name":"XTRA™", "deal":"SAVE $1.00","description":"on ONE (1) 144oz or larger XTRA™ or TWO (2) 75oz or smaller XTRA™, XTRA™ Nice 'n Fluffy Softeners, or XTRA™ Sure Shot™ Paks", "img":"img/xtra.gif"},
+  {"name":"ARM & HAMMER™ Spinbrush™™", "deal":"SAVE $1.00","description":"on ONE (1) ARM & HAMMER™ Spinbrush™ Battery Toothbrush", "img":"img/spinbrush.gif"},
+  {"name":"OLAY® BODY", "deal":"$1.00 OFF","description":"ONE Olay® Body Wash or Bar Soap 4ct or larger (excludes trial/travel size)", "img":"img/olay.gif"}
+]}
+

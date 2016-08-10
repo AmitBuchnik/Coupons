@@ -1,0 +1,28 @@
+.brand {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    color: #444;
+    font-size: 16px;
+}
+
+.description {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    //font-weight: bold;
+    //color: #444;
+    //font-size: 16px;
+}
+
+.ui-header, .ui-title, .ui-footer{
+
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+.summary {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    color: #08b4df;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
